@@ -2,3 +2,4 @@
 **/test
 **/mlflow
 *.csv
+*.zip
